@@ -1,7 +1,7 @@
 
 ![image description](https://cdn.pixabay.com/photo/2018/09/27/09/21/web-3706561_1280.jpg)
 
-# <span style='color:#4170E1'>Olá bem vindo ao meu perfil!</span>
+# <span style='color:red'>Olá bem vindo ao meu perfil!</span>
 
 ## <span style='color:#4170E1'>Sou uma desenvolvedora de software apaixonada por resolver problemas complexos e criar soluções inovadoras.</span>
 
