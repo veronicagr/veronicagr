@@ -1,16 +1,16 @@
 
 ![image description](https://cdn.pixabay.com/photo/2018/09/27/09/21/web-3706561_1280.jpg)
 
-# <span style='color: #4170E1'>Olá bem vindo ao meu perfil!</span>
+# <span style='color:#4170E1'>Olá bem vindo ao meu perfil!</span>
 
-## <span style='color: #4170E1'>Sou uma desenvolvedora de software apaixonada por resolver problemas complexos e criar soluções inovadoras.</span>
+## <span style='color:#4170E1'>Sou uma desenvolvedora de software apaixonada por resolver problemas complexos e criar soluções inovadoras.</span>
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/veronicagrocha)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:veronica.gomes.rocha@gmail.com)
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/veronica_gomes_rocha)
 
-# <span style='color: #4170E1'>Hardskills</span>
+# <span style='color:#4170E1'>Hardskills</span>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
